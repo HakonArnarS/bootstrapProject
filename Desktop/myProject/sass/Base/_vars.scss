@@ -1,0 +1,46 @@
+// primary color: #0F8BF1 - blue
+// secondary color: #5d5d5d - grey 
+
+
+%primary-link {
+    position: relative;
+    display: inline-block;
+    padding: 0.35rem 1.1rem;
+    font-size: 0.85rem; 
+    color: #D6D6D6;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1.5;
+    background-color: none;  
+}
+
+%nav-logo-link {
+    display: none;
+    cursor: pointer;
+    height: 5.5rem;
+    padding: 1rem 0;  
+}
+
+%services-img {
+    width: 40%; 
+}
+
+// %sub-head-a { -color: secondary
+
+// }
+
+// %sub-head-b { - color: white
+
+// }
+
+// %h3-a { - í Services
+
+// }
+
+// %h3-b { - undir Process
+
+// }
+
+// h4 { - í FAQ
+
+// }
